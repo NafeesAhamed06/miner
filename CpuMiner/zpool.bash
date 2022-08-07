@@ -1,0 +1,1 @@
+./minerd -o stratum+tcp://scrypt.sea.mine.zpool.ca:3433 -a scrypt -u D6XW32yhSmbZEpZARvpNXH8xtZ3ijAVUbt -p c=DOGE
